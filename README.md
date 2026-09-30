@@ -3,7 +3,7 @@
 # 𒀀𒊏𒀭 | ARAN Flight Systems (أنظمة آرآن للطيران)
 
 [![Field](https://img.shields.io/badge/Field-UAV_Engineering_%26_Control-orange.svg)]()
-[![Scope](https://img.shields.io/badge/Scope-200_Technical_%26_Code_Files-blue.svg)]()
+[![Scope](https://img.shields.io/badge/Scope_Technical_%26_Code_Files-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Language](https://img.shields.io/badge/Language-Arabic-green.svg)]()
 
