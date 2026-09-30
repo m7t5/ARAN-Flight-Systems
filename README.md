@@ -3,7 +3,7 @@
 # 𒀀𒊏𒀭 | ARAN Flight Systems (أنظمة آرآن للطيران)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-![Language]  Arabic  ()
+  Arabic
 
 > **آرآن (ARAN | 𒀀𒊏𒀭):** اسم مستوحى من التراث العراقي السومري القديم، يتكون من دمج مقطعين: **ARA** (المسار/الطريق) + **AN** (السماء)، ليعبر عن **"مسار السماء"** وهندسة توجيه المركبات الجوية.
 
