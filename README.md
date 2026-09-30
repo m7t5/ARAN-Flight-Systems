@@ -2,10 +2,8 @@
 𒀀𒊏𒀭 ARAN Flight Systems |  مستودع هندسي وبرمجي متخصص في أنظمة الطيران المسير، خوارزميات التحكم، والمحاكاة و الشروحات| UAV Engineering &amp; Autonomous Flight Systems Repository
 # 𒀀𒊏𒀭 | ARAN Flight Systems (أنظمة آرآن للطيران)
 
-[![Field](https://img.shields.io/badge/Field-UAV_Engineering_%26_Control-orange.svg)]()
-[![Scope](https://img.shields.io/badge/Scope_Technical_%26_Code_Files-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Language](https://img.shields.io/badge/Language-Arabic-green.svg)]()
+[![Language](Arabic)]()
 
 > **آرآن (ARAN | 𒀀𒊏𒀭):** اسم مستوحى من التراث العراقي السومري القديم، يتكون من دمج مقطعين: **ARA** (المسار/الطريق) + **AN** (السماء)، ليعبر عن **"مسار السماء"** وهندسة توجيه المركبات الجوية.
 
