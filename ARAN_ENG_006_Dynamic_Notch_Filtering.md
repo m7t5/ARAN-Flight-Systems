@@ -136,7 +136,7 @@ $$H(z) = \frac{b_0 + b_1 z^{-1} + b_2 z^{-2}}{1 + a_1 z^{-1} + a_2 z^{-2}}$$
 * **[دليل إعداد الـ Actuators وتوزيع المحركات](./ARAN_ENG_004_Actuators_PWM_Setup.md)**
 * **[دليل الـ Autotune للضبط التلقائي](./ARAN_ENG_003_Autotune_System.md)**
 * **[دليل معايرة الـ ESC](./ARAN_ENG_002_ESC_Calibration.md)**
-* **[دليل ضبط الـ PID الأساسي](./pid_tuning_guide_multicopter_basic.md)**
+* **[دليل ضبط الـ PID الأساسي](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/ARAN_ENG_001_PID_Tuning.md)**
 
 ---
 
