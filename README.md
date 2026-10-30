@@ -26,8 +26,8 @@
 تم تنظيم محتوى المستودع وتقاريره الهندسية والبرمجية بعناية لغرض الشمولية والاحترافية الأكاديمية:
 
 1. **[Flight Control & Avionics (أنظمة التحكم وإلكترونيات الطيران)](https://github.com/m7t5/ARAN-Flight-Systems/tree/main/Flight%20Control%20%26%20Avionics%20(%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%20%D9%88%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86))**
-   * قسم البرمجة، خوارزميات التوازن (PID)، وتوجيه الطائرة والطيار الآلي 
-   * 2. **[Airframe & Aerodynamics (الهيكل والديناميكا الهوائية)](https://github.com/m7t5/ARAN-Flight-Systems/tree/main/Airframe%20%26%20Aerodynamics%20(%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84%20%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D8%A7%20%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9))**
+   * قسم البرمجة، خوارزميات التوازن (PID)، وتوجيه الطائرة والطيار الآلي
+2. **[Airframe & Aerodynamics (الهيكل والديناميكا الهوائية)](https://github.com/m7t5/ARAN-Flight-Systems/tree/main/Airframe%20%26%20Aerodynamics%20(%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84%20%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D8%A7%20%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9))**
    * قسم تصميم الجسم، فيزياء المراوح,وكل الاجزاء المؤثرة في ديناميكا الهواء.
 3. **[Propulsion & Power (أنظمة الدفع والطاقة)](https://github.com/m7t5/ARAN-Flight-Systems/tree/main/Propulsion%20%26%20Power%20(%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AF%D9%81%D8%B9%20%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9))**
    * قسم المحركات عديمة الفحمات (BLDC)، منظمات السرعة (ESCs)، نمذجة البطاريات، وتعويض هبوط الجهد اللحظي.
