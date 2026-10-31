@@ -1,5 +1,5 @@
- 
-```markdown
+```
+markdown
 <div dir="rtl" align="right">
 
 # هندسة النُّظُم والتوثيق المنهجي (Systems Engineering & Documentation): المعمارية التناظرية، نمذجة الاعتمادية، وضوابط التدوين الهندسي في ARAN Flight Systems
