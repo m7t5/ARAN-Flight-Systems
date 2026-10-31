@@ -1,113 +1,87 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interdisciplinary R&D - Materials Science</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.8;
-            color: #333;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #0056b3;
-            border-bottom: 2px solid #0056b3;
-            padding-bottom: 5px;
-        }
-        h1 {
-            text-align: center;
-        }
-        h3 {
-            border-bottom: none;
-            color: #004085;
-            margin-top: 30px;
-        }
-        .intro-box {
-            background-color: #e9ecef;
-            border-right: 4px solid #0056b3;
-            padding: 15px 20px;
-            margin-bottom: 30px;
-            border-radius: 4px;
-        }
-        .intro-box p {
-            margin: 0;
-            font-weight: 500;
-        }
-        ul {
-            list-style-type: square;
-            padding-right: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        strong {
-            color: #d9534f;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-            margin-bottom: 30px;
-            background-color: #fff;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-        }
-        th, td {
-            border: 1px solid #dee2e6;
-            padding: 12px;
-            text-align: right;
-        }
-        th {
-            background-color: #0056b3;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-        .references {
-            background-color: #fff;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            margin-top: 40px;
-        }
-        .references ol {
-            padding-right: 20px;
-        }
-        .references li {
-            margin-bottom: 8px;
-            font-size: 0.9em;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+<div dir="rtl" align="right">
 
-    <h1>تقرير: Interdisciplinary R&D (البحوث المتقاطعة وتكامل العلوم)</h1>
-    <h2 style="text-align: center; color: #555; font-size: 1.2em; border: none;">التركيز الأكاديمي: علم المواد (Materials Science) وتطبيقاته في الطائرات المسيرة</h2>
+# البحوث المتقاطعة وتكامل العلوم (Interdisciplinary R&D): علم المواد وتطبيقاته الهندسية في الطائرات المسيرة
 
-    <div class="intro-box">
-        <p><strong>مقدمة:</strong> لا يمكن تحقيق كفاءة طيران عالية في الطائرات المسيرة (UAVs) بالاعتماد على الديناميكا الهوائية وحدها. هنا يبرز التقاطع الجوهري مع <strong>علم المواد (Materials Science)</strong>، حيث تتركز الأبحاث على إيجاد التوازن المثالي بين الصلابة (Stiffness) وتقليل الوزن، لزيادة زمن الرحلة وكفاءة المناورة.</p>
-    </div>
+<div align="center">
 
-    <h3>1. المواد المركبة (Composite Materials) وبوليمرات ألياف الكربون</h3>
-    <p>تعتبر بوليمرات ألياف الكربون المقواة (<strong>CFRP</strong>) العمود الفقري لهياكل الطائرات المسيرة الحديثة. تتميز هذه المواد بامتلاكها نسبة "مقاومة إلى وزن" (Strength-to-weight ratio) تفوق المعادن التقليدية بكثير.</p>
-    <ul>
-        <li><strong>الأهمية الهندسية:</strong> تسمح مادة CFRP بتصميم هياكل (Airframes) قادرة على تحمل القوى الديناميكية الهوائية العالية دون إضافة عبء على المحركات (Motors) أو تقليل عمر البطارية.</li>
-    </ul>
+![Category](https://img.shields.io/badge/Category-Interdisciplinary%20R&D-purple?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Materials%20Science%20%26%20Structures-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Advanced%20Research-success?style=for-the-badge)
 
-    <h3>2. التصنيع المضاف (Additive Manufacturing) وامتصاص الاهتزازات</h3>
-    <p>الطباعة ثلاثية الأبعاد ليست مجرد أداة لصنع النماذج الأولية (Prototyping)، بل أصبحت جزءاً من عملية الـ R&D المتقاطعة لصناعة أجزاء وظيفية.</p>
-    <ul>
-        <li><strong>التطبيق:</strong> استخدام مواد مثل TPU (البولي يوريثين المرن) في قواعد تثبيت الكاميرات أو متحكم الطيران (Flight Controller).</li>
-        <li><strong>الفائدة:</strong> تعمل هذه المواد على توفير (Vibration Damping) ممتاز، مما يمنع انتقال الاهتزازات من المحركات إلى مستشعرات الجيروسكوب، وبالتالي ضمان استقرار نظام التحكم.</li>
-    </ul>
+**الإطار المنهجي لتطبيقات علم المواد المتقدمة، وهندسة المركبات المركبة، والتحسين الهيكلي في هياكل الطائرات بدون طيار**
 
-    <h3>3. التحسين الهيكلي (Structural Optimization) وإجهاد المواد</h3>
-    <p>تتعرض أذرع الطائرة المسيرة لقوى شد وضغط مستمرة. تركز الأبحاث هنا على دراسة:</p>
-    <ul>
-        <li>
+</div>
+
+---
+
+## 1. المدخل المنهجي: لماذا يتقاطع علم المواد مع هندسة الطائرات المسيرة؟
+
+لا يمكن تحقيق كفاءة طيران فائقة المدى والقدرة على المناورة في الطائرات المسيرة (UAVs) بالاعتماد على الديناميكا الهوائية وحدها. هنا يبرز التقاطع الجوهري مع **علم المواد (Materials Science)**؛ حيث تتركز الأبحاث المتقاطعة على إيجاد التوازن المثالي بين الصلابة الإنشائية (**Stiffness**) وخفض الكتلة الكلية، لزيادة زمن الرحلة وكفاءة استهلاك الطاقة ضمن استقلالية تامة.
+
+---
+
+## 2. المواد المركبة وبوليمرات ألياف الكربون (CFRP)
+
+تُعتبر بوليمرات ألياف الكربون المقواة (**Carbon Fiber Reinforced Polymers - CFRP**) العمود الفقري لهياكل الطائرات المسيرة الحديثة في مستودع **ARAN Flight Systems**، نظراً لتفوقها الكبيّر على المعادن التقليدية.
+
+* **النسبة البنيوية (Strength-to-Weight Ratio):** تمنح ألياف الكربون مقاومة فائقة للشد والالتواء بوزن ضئيل للغاية مقارنة بالألومنيوم أو التيتانيوم.
+* **الأهمية الهندسية:** تسمح مادة CFRP بتصميم هياكل (**Airframes**) قادرة على تحمل إجهادات الانحناء الناتجة عن عزم المراوح والقصور الذاتي دون تحميل إضافي على محركات الـ BLDC أو تقليل كفاءة البطارية.
+
+---
+
+## 3. التصنيع المضاف وامتصاص الاهتزازات (Additive Manufacturing & Damping)
+
+لم تعد الطباعة ثلاثية الأبعاد مقتصرة على النماذج الأولية الشكلية، بل أصبحت ركيزة أساسية في أبحاث الـ R&D المتقاطعة لإنتاج قطع وظيفية ذات سلوك ميكانيكي مخصص.
+
+* **التطبيق الهندسي:** استخدام لدائن البولي يوريثين المرن (**TPU**) في تصنيع حوامل تثبيت وحدة التحكم بالرحلة (**Flight Controller**) وحوامل الكاميرات.
+* **العزل الاهتزازي (Vibration Damping):** تعمل هذه المواد المرنة على تبديد ترددات الاهتزاز العالية الناشئة عن دوران المحركات قبل وصولها إلى مستشعرات الجจيروسكوب ومقياس التسارع (**IMU**), مما يمنع تشبع المرشحات الرقمية واستقرار خوارزميات التحكم.
+
+---
+
+## 4. التحسين الهيكلي وتحليل إجهاد المواد (Structural Optimization & Fatigue)
+
+تعمل أذرع وإطارات الطائرة المسيرة تحت تأثير أحمال دورية مستمرة نتيجة الدفع النبضي واضطرابات الرياح. تركز الأبحاث التحليلية في هذا المجال على:
+* **تحليل العناصر المحدودة (FEA):** محاكاة توزع الإجهادات على مفاصل الإطار لتخفيف الوزن في المناطق ذات الضغط المنخفض ومضاعفة الدعم في العقد الحرجة.
+* **مقاومة الإجهاد الميكانيكي (Fatigue Resistance):** دراسة سلوك المادة تحت دورات التحميل المتكررة لمنع حدوث التشققات المجهرية الفجائية أثناء الطيران العنيف.
+
+---
+
+## جدول مقارنة الخصائص الفيزيائية لمواد الهياكل
+
+| مادة التصنيع | الكثافة النسبية | مقاومة الششد | معامل المرونة | صلاحيتها لهياكل الـ UAV |
+|---:|---:|---:|---:|---|
+| **ألومنيوم 6061** | متوسطة (2.7 g/cm³) | متوسطة | متوسط (69 GPa) | تستخدم في الوصلات الميكانيكية الدقيقة والبراغي. |
+| **ألياف الكربون (CFRP)** | منخفضة (1.5 g/cm³) | عالية جداً | مرتفع جداً ($>130\text{ GPa}$) | المادة المثالية للأذرع والهيكل الرئيسي. |
+| **البولي يوريثين (TPU)** | منخفضة (1.2 g/cm³) | منخفضة إلى متوسطة | منخفض جداً (مرن) | مخصص لممتصات الصدمات والقواعد العازلة. |
+
+---
+
+## المراجع العلمية والأكاديمية المعتمدة
+
+1. **MIT Department of Materials Science and Engineering:**
+   Gibson, L. F., & Ashby, M. F. (1997). *"Cellular Solids: Structure and Properties."* **Cambridge University Press** (مرجع أساسي في هندسة المواد المركبة وتصميم الهياكل خفيفة الوزن).
+2. **Composite Structures Journal:**
+   Mallick, P. K. (2007). *"Fiber-Reinforced Composites: Materials, Manufacturing, and Design."* **CRC Press** (دراسة سلوك بوليمرات ألياف الكربون تحت الإجهادات الديناميكية والهندسية).
+3. **IEEE Robotics and Automation Letters:**
+   Ryll, M., et al. (2015). *"A novel overactuated quadrotor unmanned aerial vehicle: Modeling, control, and experimental validation."* (أبحاث تكامل المواد والهندسة الهيكلية في الطائرات المسيرة).
+
+---
+
+## روابط ذات صلة في المستودع
+
+* **[هندسة النُّظُم والتوثيق المنهجي (`Systems_Engineering_Methodology.md`)](./Systems_Engineering_Methodology.md)**
+* **[هندسة الهيكل والديناميكا الهوائية (`Airframe_Aerodynamics_Architecture.md`)](./Airframe_Aerodynamics_Architecture.md)**
+* **[هندسة أنظمة الدفع والطاقة (`Propulsion_Power_Architecture.md`)](./Propulsion_Power_Architecture.md)**
+
+---
+
+<div align="center">
+
+**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](./README.md)**
+
+---
+
+**© ARAN Flight Systems** — جميع الحقوق محفوظة
+
+</div>
+</div>
