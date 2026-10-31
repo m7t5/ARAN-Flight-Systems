@@ -65,9 +65,7 @@
 3. **IEEE Robotics and Automation Letters:**
    Ryll, M., et al. (2015). *"A novel overactuated quadrotor unmanned aerial vehicle: Modeling, control, and experimental validation."* (أبحاث تكامل المواد والهندسة الهيكلية في الطائرات المسيرة).
 
----`)](./Propulsion_Power_Architecture.md)**
 
----
 
 <div align="center">
 
