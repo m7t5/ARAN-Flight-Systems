@@ -1,5 +1,4 @@
-اسم الملف المخصص للرفع في المستودع ضمن قسم هندسة الأنظمة والتوثيق: **`Systems_Engineering_Methodology.md`**
-
+ 
 ```markdown
 <div dir="rtl" align="right">
 
