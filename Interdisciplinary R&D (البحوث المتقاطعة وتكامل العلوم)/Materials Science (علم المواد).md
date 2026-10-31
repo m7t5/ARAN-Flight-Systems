@@ -65,19 +65,11 @@
 3. **IEEE Robotics and Automation Letters:**
    Ryll, M., et al. (2015). *"A novel overactuated quadrotor unmanned aerial vehicle: Modeling, control, and experimental validation."* (أبحاث تكامل المواد والهندسة الهيكلية في الطائرات المسيرة).
 
----
-
-## روابط ذات صلة في المستودع
-
-* **[هندسة النُّظُم والتوثيق المنهجي (`Systems_Engineering_Methodology.md`)](./Systems_Engineering_Methodology.md)**
-* **[هندسة الهيكل والديناميكا الهوائية (`Airframe_Aerodynamics_Architecture.md`)](./Airframe_Aerodynamics_Architecture.md)**
-* **[هندسة أنظمة الدفع والطاقة (`Propulsion_Power_Architecture.md`)](./Propulsion_Power_Architecture.md)**
+---`)](./Propulsion_Power_Architecture.md)**
 
 ---
 
 <div align="center">
-
-**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](./README.md)**
 
 ---
 
