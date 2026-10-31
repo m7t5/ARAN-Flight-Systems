@@ -94,11 +94,6 @@
 
 ---
 
-## روابط ذات صلة في المستودع
-
-* **[هندسة النُّظُم والتوثيق المنهجي (`Systems_Engineering_Methodology.md`)](./Systems_Engineering_Methodology.md)**
-* **[هندسة التحكم المتسامح مع الأعطال (`Fault_Tolerant_Control.md`)](./Fault_Tolerant_Control.md)**
-* **[هندسة تصفية القمع الديناميكية (`Dynamic_Notch_Filtering.md`)](./Dynamic_Notch_Filtering.md)**
 
 ---
 
