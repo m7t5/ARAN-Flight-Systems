@@ -81,7 +81,7 @@
 
 ---
 
- 8. المراجع العلمية والروابط الداخلية في المستودع
+ 8. المراجع العلمية 
 
  المراجع الأكاديمية والمعتمدة:
 1. **NASA (2016).** *Systems Engineering Handbook* (NASA/SP-2016-6105). National Aeronautics and Space Administration.
