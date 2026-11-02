@@ -88,10 +88,6 @@
 2. **ASTM International (2021).** *ASTM E3159-21: Standard Specification for Unmanned Aircraft Systems (UAS) Software Reliability*.
 3. **RTCA (2012).** *DO-178C: Software Considerations in Airborne Systems and Equipment Certification*.
 
- روابط داخلية للمستودع:
-* [ملف المتطلبات الأساسية](./Requirements.md)
-* [سجل إدارة التهيئة والتغيير](./Configuration_Management.md)
-* [دليل خطط التحقق والاختبار V&V](./Verification_Plan.md)
-* [توثيق نظام الطيران الذاتي](./Flight_Control_Architecture.md)
+
 
 </div>
