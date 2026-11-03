@@ -101,11 +101,5 @@
 4. **Dronecode Foundation & PX4 Community:** PX4 Autopilot Architecture: VTOL Core State Machine and Blending Formulation, Documentation Suite, 2024.
 5. **SAE International:** ARP4754A: Guidelines for Development of Civil Aircraft and Systems, SAE Aerospace Standard.
 
-### وثائق المستودع ذات الصلة
-- [دليل إدارة التهيئة المعمارية للمنظومة](docs/configuration_management.md)
-- [سجل مصفوفة التثبُّت والمصادقة الميدانية](docs/verification_validation.md)
-- [مواصفات منصة الدفع ومحركات الرفع](hardware/propulsion_specs.md)
-- [دليل تهيئة معايير متحكم الطيران PX4](firmware/px4_tuning_params.md)
-- [سجل بيانات التحليل الحراري الميداني](telemetry/thermal_analysis_logs.md)
 
 </div>
