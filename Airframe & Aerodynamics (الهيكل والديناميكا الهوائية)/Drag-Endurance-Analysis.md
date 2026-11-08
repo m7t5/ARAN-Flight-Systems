@@ -201,7 +201,7 @@ $$Re = \frac{\rho\, V\, c}{\mu}$$
 
 ## 10. حدود النموذج
 
-- $C_{D0}$ و$e$ ثابتان (يتغيران مع $Re$ و$C_L$).
+-- $C_{D0}$ و$e$ ثابتان (يتغيران مع $Re$ و$C_L$).
 - كفاءة الدفع $\eta_{tot}$ ثابتة (تتغير مع نقطة التشغيل).
 - لا يوجد حمل ثابت للإلكترونيات، ولا Peukert effect للبطارية، ولا رياح، ولا صعود.
 - الوزن ثابت عند تغيير $AR$.
@@ -219,15 +219,7 @@ $$Re = \frac{\rho\, V\, c}{\mu}$$
 7. Selig, M. S. et al., *Summary of Low-Speed Airfoil Data*, Vol. 1, SoarTech Publications, 1995.
 8. Hoerner, S. F., *Fluid-Dynamic Drag*, 1965.
 
-> **قبل التسليم الأكاديمي:** تحقق من الطبعة وأرقام الصفحات في مكتبتك، وأضف إحالات داخل المتن ([1]، [3]...) عند كل ادعاء مرتبط بمرجع.
 
 </div>
 
 ---
-
-## Reproduce the numbers
-
-```bash
-pip install numpy matplotlib
-python drag_analysis.py   # prints all values used in the report, writes drag_vs_speed.png
-```
