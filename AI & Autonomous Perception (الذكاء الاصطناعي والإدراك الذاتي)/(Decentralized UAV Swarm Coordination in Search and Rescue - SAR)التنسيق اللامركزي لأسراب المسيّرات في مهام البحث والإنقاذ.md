@@ -16,7 +16,6 @@
    - [7. التخصيص الديناميكي للمهام (Task Reallocation)](#7-التخصيص-الديناميكي-للمهام-task-reallocation)
    - [8. مقاومة التشويش والأمن السيبراني للسرب (Anti-Jamming & Swarm Security)](#8-مقاومة-التشويش-والأمن-السيبراني-للسرب-anti-jamming--swarm-security)
 3. [المعادلات الرياضية الجوهرية ومعاني المعطيات (الجزء الأول)](#المعادلات-الرياضية-الجوهرية-ومعاني-المعطيات-الجزء-الأول)
-4. [المصادر والمراجع العلمية](#المصادر-والمراجع-العلمية)
 
 
 1. [المحور الثالث: خوارزميات السرب لتخطيط مسار الطائرات المسيرة](#المحور-الثالث-خوارزميات-السرب-لتخطيط-مسار-الطائرات-المسيرة)
@@ -407,10 +406,10 @@ $$
 
 ## المصادر والمراجع العلمية
 
-3. **\[3\]** *Swarm algorithms for UAV route planning: a systematic review* (2026).
-4. **\[4\]** *Systematic Review of Multi-Objective UAV Swarm Mission Planning Systems* (2025).
-5. **\[5\]** *Toward Autonomous UAV Swarm Navigation: A Review of Path Planning Algorithms* (2025).
-## المصادر والمراجع العلمية
 
 1. **[1]** Vithanaarachchi, P., et al. (2026). *A Review of Multi-Agent Coordination Strategies for Multi-Role UAV Swarms in SAR*. IEEE Access, Vol. 14.
 2. **[2]** Mochurad, L., et al. (2025). *Decentralized Drone Swarm Coordination Methods Using Reinforcement Learning and Parallel Computing*. International Journal of Intelligent Engineering and Systems, Vol. 18, Issue 5, pp. 83–99.
+3. **\[3\]** *Swarm algorithms for UAV route planning: a systematic review* (2026).
+4. **\[4\]** *Systematic Review of Multi-Objective UAV Swarm Mission Planning Systems* (2025).
+5. **\[5\]** *Toward Autonomous UAV Swarm Navigation: A Review of Path Planning Algorithms* (2025).
+
