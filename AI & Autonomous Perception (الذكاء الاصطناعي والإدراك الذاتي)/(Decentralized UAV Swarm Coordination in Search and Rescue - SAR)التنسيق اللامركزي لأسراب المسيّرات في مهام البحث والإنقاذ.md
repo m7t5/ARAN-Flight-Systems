@@ -413,3 +413,4 @@ $$
 4. **\[4\]** *Systematic Review of Multi-Objective UAV Swarm Mission Planning Systems* (2025).
 5. **\[5\]** *Toward Autonomous UAV Swarm Navigation: A Review of Path Planning Algorithms* (2025).
 
+* **[هندسة الذكاء السربي والتحكم اللامركزي (`AI_Swarm_Architecture.md`)](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/AI%20%26%20Autonomous%20Perception%20(%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D9%88%D8%A7%D9%84%D8%A5%D8%AF%D8%B1%D8%A7%D9%83%20%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A)/%D9%87%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B3%D8%B1%D8%A8%D9%8A%20%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%20%D8%A7%D9%84%D9%84%D8%A7%D9%85%D8%B1%D9%83%D8%B2%D9%8A%20(AI-Driven%20Swarm%20Architecture).md)**
