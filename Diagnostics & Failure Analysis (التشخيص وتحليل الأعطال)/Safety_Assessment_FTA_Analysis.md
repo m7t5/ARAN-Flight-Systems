@@ -143,16 +143,15 @@ $$Q_{\text{AND, Real}} = (0.95 \times 10^{-4})^2 + (0.05 \times 10^{-4}) = 9.025
 
 ## روابط ذات صلة في المستودع
 
-* **[هندسة النُّظُم القائمة على النماذج (`Model_Based_Systems_Engineering.md`)](./Model_Based_Systems_Engineering.md)**
-* **[هندسة النُّظُم والتوثيق المنهجي (`Systems_Engineering_Methodology.md`)](./Systems_Engineering_Methodology.md)**
-* **[مصفوفة اقتفاء أثر المتطلبات (`Requirements_Traceability_Matrix.md`)](./Requirements_Traceability_Matrix.md)**
-* **[الدليل الشامل لهندسة برمجيات الطائرات المسيرة (`UAV_Software_Engineering_Guide.md`)](../Flight%20Control%20%26%20Avionics/UAV_Software_Engineering_Guide.md)**
+* **[هندسة النُّظُم القائمة على النماذج (`Model_Based_Systems_Engineering.md`)](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/Flight%20Control%20%26%20Avionics%20(%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%20%D9%88%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86)/%D9%87%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A7%D9%84%D9%86%D9%8F%D9%91%D8%B8%D9%8F%D9%85%20%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D9%85%D8%A7%D8%B0%D8%AC.md)**
+* **[مصفوفة اقتفاء أثر المتطلبات (`Requirements_Traceability_Matrix.md`)](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/Flight%20Control%20%26%20Avionics%20(%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%20%D9%88%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86)/%D9%85%D8%B5%D9%81%D9%88%D9%81%D8%A9%20%D8%A7%D9%82%D8%AA%D9%81%D8%A7%D8%A1%20%D8%A3%D8%AB%D8%B1%20%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%20(Requirements%20Traceability%20Matrix%20-%20RTM).md)**
+* **[الدليل الشامل لهندسة برمجيات الطائرات المسيرة (`UAV_Software_Engineering_Guide.md`)](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/Flight%20Control%20%26%20Avionics%20(%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%20%D9%88%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86)/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%20%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9%20(UAV%20Software%20Engineering%20Guide).md)**
 
 ---
 
 <div align="center">
 
-**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](../README.md)**
+**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](https://github.com/m7t5/ARAN-Flight-Systems)**
 
 ---
 
