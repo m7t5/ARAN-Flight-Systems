@@ -405,7 +405,7 @@ $$
 
 <div align="center">
 
-**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](../.README.md)**
+**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](https://github.com/m7t5/ARAN-Flight-Systems)**
 
 ---
 
