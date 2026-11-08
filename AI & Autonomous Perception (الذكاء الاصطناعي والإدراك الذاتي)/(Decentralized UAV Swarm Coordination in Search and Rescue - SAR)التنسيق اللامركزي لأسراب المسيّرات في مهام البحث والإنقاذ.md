@@ -1,5 +1,24 @@
-# التقرير الفني الشامل : استراتيجيات التنسيق اللامركزي، الاستجابة للطوارئ، والتعلم المعزز لأسراب الطائرات المسيرة
+<div dir="rtl" align="right">
 
+# هندسة الذكاء السربي والتحكم اللامركزي: التقارير الفنية الشاملة (AI-Driven Swarm Architecture: Technical Reports)
+
+<div align="center">
+
+![Category](https://img.shields.io/badge/Category-Flight%20Control%20%26%20Autonomy-blue?style=for-the-badge)
+![Standard](https://img.shields.io/badge/Standard-ARP4754A%20%7C%20DO--178C-success?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Multi--Agent%20Systems-purple?style=for-the-badge)
+![Scope](https://img.shields.io/badge/Scope-Parts%201%20%26%202%20(17%20Topics)-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## فهرس الأقسام الرئيسية
+
+* **الجزء الأول:** استراتيجيات التنسيق المتعددة للوكلاء في مهام البحث والإنقاذ (SAR)، التعلم المعزز اللامركزي، والحوسبة المتوازية (النقاط من 1 إلى 8).
+* **الجزء الثاني:** خوارزميات تخطيط المسارات، أنظمة اتخاذ القرار الموزع، الإدارة الذكية للطاقة، والملاحة المستقلة بالكامل (النقاط من 9 إلى 17).
+
+---
 
 ---
 
