@@ -138,21 +138,12 @@ $$H_{x} = \frac{\partial \hat{a}_{x,B}}{\partial v_{\text{rel}, x}} = - M_{\text
 
 ---
 
-## روابط ذات صلة في المستودع
 
-* **[مدخل إلى هندسة برمجة الطائرات المسيرة ومعمارية الـ Offboard](./ARAN_PRG_001_Autonomous_Offboard_Architecture.md)**
-* **[هندسة الـ Dynamic Notch Filtering ومرشحات الـ FFT اللحظية](./ARAN_ENG_006_Dynamic_Notch_Filtering.md)**
-* **[هندسة التحكم المتسامح مع الأعطال والإنقاذ بثلاث مراوح](./ARAN_ENG_005_Fault_Tolerant_Control.md)**
-* **[دليل إعداد الـ Actuators وتوزيع المحركات](./ARAN_ENG_004_Actuators_PWM_Setup.md)**
-* **[دليل الـ Autotune للضبط التلقائي](./ARAN_ENG_003_Autotune_System.md)**
-* **[دليل معايرة الـ ESC](./ARAN_ENG_002_ESC_Calibration.md)**
-* **[دليل ضبط الـ PID الأساسي](./pid_tuning_guide_multicopter_basic.md)**
 
 ---
 
 <div align="center">
 
-**[العودة إلى الصفحة الرئيسية (ARAN Flight Systems)](./README.md)**
 
 ---
 
