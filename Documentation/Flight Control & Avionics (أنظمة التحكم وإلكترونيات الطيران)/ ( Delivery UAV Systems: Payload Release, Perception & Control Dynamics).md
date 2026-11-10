@@ -1,7 +1,6 @@
 <div dir="rtl" align="right">
 
-# المنظومة الهندسية المتكاملة لطائرات التوصيل المسيرة: آليات تحرير الحمولة، الإدراك البيئي، وديناميكيات التحكم والسلامة (Integrated Delivery UAV Systems: Payload Release, Perception & Control Dynamics)
-
+#  Delivery UAV Systems: Payload Release, Perception & Control Dynamics   أنظمة التسليم المتكاملة للطائرات بدون طيار
 <div align="center">
 
 ![Category](https://img.shields.io/badge/Category-Delivery%20UAV%20Systems-blue?style=for-the-badge)
@@ -448,7 +447,5 @@ $$
 19. **[19]** *Precision Altimetry for Final Descent in Aerial Delivery*, Journal of Field Robotics (2024).
 
 ---
-* **روابط داخلية حول الموضوع:**
-* **[المنظومة الهندسية المتكاملة لطائرات التوصيل المسيرة (`Delivery_UAV_Systems.md`)](https://github.com/m7t5/ARAN-Flight-Systems/blob/main/Documentation/Flight%20Control%20%26%20Avionics/Delivery_UAV_Systems.md)**
 
 </div>
