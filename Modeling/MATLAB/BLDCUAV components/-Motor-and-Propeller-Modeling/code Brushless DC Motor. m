@@ -1,0 +1,38 @@
+clc; clear; close all;
+% Motor parameters
+V=12; R=0.5; L=0.001; Kt=0.02; Ke=0.02;
+J=0.0001; B=0.00001;
+% Propeller parameters
+rho=1.225; D=0.254; CT=0.10; CP=0.04;
+tspan=[0 3]; x0=[0;0];
+% x(1) = current, x(2) = angular speed
+model=@(t,x) [(V-R*x(1)-Ke*x(2))/L; ...
+  (Kt*x(1)-B*x(2)- ...
+  CP*rho*(x(2)/(2*pi))^2*D^5/(2*pi))/J];
+[t,x]=ode45(model,tspan,x0);
+current=x(:,1); omega=x(:,2);
+RPM=omega*60/(2*pi); Torque=Kt*current;
+n=omega/(2*pi);
+Thrust=CT*rho.*n.^2*D^4;
+Power=CP*rho.*n.^3*D^5;
+figure('Color','w','Position',[100 100 1100 750]);
+subplot(2,2,1)
+plot(t,RPM,'b','LineWidth',2); grid on;
+xlabel('Time (s)'); ylabel('Speed (RPM)');
+title('Motor Speed vs. Time'); xlim([0 3]);
+subplot(2,2,2)
+plot(t,Torque,'r','LineWidth',2); grid on;
+xlabel('Time (s)'); ylabel('Torque (N.m)');
+title('Motor Torque vs. Time'); xlim([0 3]);
+subplot(2,2,3)
+plot(t,Thrust,'Color',[0 0.55 0.25], ...
+ 'LineWidth',2); grid on;
+xlabel('Time (s)'); ylabel('Thrust (N)');
+title('Propeller Thrust vs. Time'); xlim([0 3]);
+subplot(2,2,4)
+plot(t,Power,'Color',[0.55 0 0.7], ...
+ 'LineWidth',2); grid on;
+xlabel('Time (s)'); ylabel('Power (W)');
+title('Propeller Power vs. Time'); xlim([0 3]);
+set(gcf,'PaperPositionMode','auto');
+print(gcf,'UAV_Simulation_Results','-dpng','-r300');
