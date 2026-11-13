@@ -108,7 +108,7 @@ $$
 * **معاني المجاهيل والرموز:**
 * $\mathbf{w}$: متجه الأوزان المركب للمصفوفة بأبعاد ($N \times 1$).
 * $(\cdot)^H$: المنقول المرافق الهرميتي للمصفوفة أو المتجه (Hermitian Transpose).
-* $\mathbf{R}_{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من العلاقة $\mathbf{R}_{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
+- $\mathbf{R}\sb{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من العلاقة $\mathbf{R}\sb{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
 * $\mathbf{a}(\theta_0)$: متجه التوجيه المكاني (Steering Vector) نحو زاوية الهدف $\theta_0$ بأبعاد ($N \times 1$)، ويُعطى بالصيغة $\mathbf{a}(\theta_0) = \left[1, \, e^{j\frac{2\pi d}{\lambda}\sin\theta_0}, \, \dots, \, e^{j(N-1)\frac{2\pi d}{\lambda}\sin\theta_0}\right]^T$.
 ---
 
@@ -142,7 +142,7 @@ $$
 * **معاني المجاهيل والرموز:**
   * $\mathbf{w}$: متجه الأوزان المركب للمصفوفة بأبعاد ($N \times 1$).
   * $(\cdot)^H$: المنقول المرافق الهرميتي للمصفوفة أو المتجه (Hermitian Transpose).
-  * $\mathbf{R}_{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من $\mathbf{R}_{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
+  * -$\mathbf{R}_{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من $\mathbf{R}_{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
   * $\mathbf{a}(\theta_0)$: متجه التوجيه المكاني (Steering Vector) نحو زاوية الهدف أو المحطة الأرضية $\theta_0$، حيث $\mathbf{a}(\theta_0) = [1, e^{j\frac{2\pi d}{\lambda}\sin\theta_0}, \dots, e^{j(N-1)\frac{2\pi d}{\lambda}\sin\theta_0}]^T$.
 
 ---
