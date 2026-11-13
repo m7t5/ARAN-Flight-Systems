@@ -106,10 +106,10 @@ $$
 D_0 = \frac{2 \, N \, d}{\lambda} \xrightarrow{d = \lambda/2} D_0 = N, \quad G(\theta) = \eta_{\text{rad}} \cdot D(\theta)
 $$
 * **معاني المجاهيل والرموز:**
-  * $\mathbf{w}$: متجه الأوزان المركب للمصفوفة بأبعاد ($N \times 1$).
-  * $(\cdot)^H$: المنقول المرافق الهرميتي للمصفوفة أو المتجه (Hermitian Transpose).
-  * $\mathbf{R}_{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من العلاقة $\mathbf{R}_{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
-  * $\mathbf{a}(\theta_0)$: متجه التوجيه المكاني (Steering Vector) نحو زاوية الهدف $\theta_0$ بأبعاد ($N \times 1$)، ويُعطى بالصيغة $\mathbf{a}(\theta_0) = \left[1, \, e^{j\frac{2\pi d}{\lambda}\sin\theta_0}, \, \dots, \, e^{j(N-1)\frac{2\pi d}{\lambda}\sin\theta_0}\right]^T$.
+* $\mathbf{w}$: متجه الأوزان المركب للمصفوفة بأبعاد ($N \times 1$).
+* $(\cdot)^H$: المنقول المرافق الهرميتي للمصفوفة أو المتجه (Hermitian Transpose).
+* $\mathbf{R}_{xx}$: مصفوفة التغاير الذاتي لإشارات الدخل المستقبلة $\mathbf{x}(t)$ بأبعاد ($N \times N$)، وتُحسب من العلاقة $\mathbf{R}_{xx} = \mathbb{E}[\mathbf{x}(t)\mathbf{x}^H(t)]$.
+* $\mathbf{a}(\theta_0)$: متجه التوجيه المكاني (Steering Vector) نحو زاوية الهدف $\theta_0$ بأبعاد ($N \times 1$)، ويُعطى بالصيغة $\mathbf{a}(\theta_0) = \left[1, \, e^{j\frac{2\pi d}{\lambda}\sin\theta_0}, \, \dots, \, e^{j(N-1)\frac{2\pi d}{\lambda}\sin\theta_0}\right]^T$.
 ---
 
 ## 4. البنية المعمارية لنظام المصفوفة الطورية
