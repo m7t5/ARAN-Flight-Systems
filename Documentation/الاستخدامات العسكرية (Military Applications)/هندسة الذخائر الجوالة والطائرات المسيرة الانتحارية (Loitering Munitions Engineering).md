@@ -83,7 +83,7 @@ I_{\text{wing}} \ddot{\phi}_{\text{wing}} + c_{\text{damp}} \dot{\phi}_{\text{wi
 $$
 
 * &rlm; $I_{\text{wing}}$: عزم القصور الذاتي للجناح حول مفصل الطي ($\text{kg}\cdot\text{m}^2$).
-* &rlm; * &rlm; $\phi_{\text{wing}}$, $\dot{\phi}_{\text{wing}}$, $\ddot{\phi}_{\text{wing}}$: زاوية انفتاح الجناح وسرعتها وتسارعها الزاوي ($\text{rad}$, $\text{rad/s}$, $\text{rad/s}^2$).: زاوية انفتاح الجناح وسرعتها وتسارعها الزاوي ($\text{rad}$, $\text{rad/s}$, $\text{rad/s}^2$).
+* &rlm; * &rlm; $\phi_{\text{wing}}$ , $\dot{\phi}_{\text{wing}}$ ,: زاوية انفتاح الجناح وسرعتها وتسارعها الزاوي ($\text{rad}$, $\text{rad/s}$, $\text{rad/s}^2$).: زاوية انفتاح الجناح وسرعتها وتسارعها الزاوي ($\text{rad}$, $\text{rad/s}$, $\text{rad/s}^2$).
 * &rlm; $c_{\text{damp}}$: معامل التخميد اللزج لامتصاص صدمة وصول الجناح إلى وضع القفل النهائي ($\text{N}\cdot\text{m}\cdot\text{s/rad}$).
 * &rlm; $k_{\text{spring}}$: ثابت صلابة نابض الالتواء ($\text{N}\cdot\text{m/rad}$).
 * &rlm; $\phi_0$: زاوية الانفتاح التصميمية النهائية للجناح ($\text{rad}$).
