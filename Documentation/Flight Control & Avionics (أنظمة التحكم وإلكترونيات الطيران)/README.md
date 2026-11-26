@@ -1,4 +1,4 @@
-
+<div dir="rtl" align="right">
 # Control Systems Fundamentals Using MATLAB
 
 ## أساسيات أنظمة السيطرة باستخدام MATLAB
@@ -848,9 +848,8 @@ $$
 
 ## Simulation Notes
 
-- MATLAB Version: 2014
-- Image Resolution: 300 DPI
-- Simulation Environment: MATLAB
-- The figures represent actual MATLAB simulation results.
-- All examples are intended for fundamental engineering education.
-- The reformatted scripts have not been independently retested.
+- **MATLAB Version:** R2014a
+- **Image Resolution:** 300 DPI
+- **Simulation Environment:** MATLAB Control System Toolbox
+- **Repository:** ARAN Flight Systems — Control & Modeling Division
+</div>
