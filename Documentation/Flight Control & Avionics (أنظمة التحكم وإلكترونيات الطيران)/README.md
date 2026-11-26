@@ -753,6 +753,6 @@ $$
 * **Toolbox:** Control System Toolbox.
 * **Image Resolution:** 300 DPI (`PNG` format).
 * **Directory Note:** السكربتات تحفظ الصور في مجلد العمل الحالي مباشرة، وتُعرض داخل هذا التوثيق من مجلد `images/` الموجود بجانب ملف `README.md`.
+* ** AI Disclosure: Artificial intelligence tools were used to assist with drafting, text formatting, and code refinement. The student author, whose area of specialization is unmanned aerial vehicles (UAVs), supervised the technical content, ran the simulations, and verified the results.
 * **Repository:** ARAN Flight Systems — Control & Modeling Division.
-
 </div>
