@@ -337,6 +337,8 @@ C_L=\frac{2L}{\rho_{\infty}V_{\infty}^{2}S}
 لذلك، يُعد تأثير كواندا مجالاً بحثياً واعداً يجمع بين ميكانيكا الموائع والديناميكا الهوائية وأنظمة التحكم وهندسة الطائرات المسيرة.
 
 ---
+Modling of conda effect( نمذجة تأثير كوندا )
+https://github.com/m7t5/ARAN-Flight-Systems/tree/main/Modeling/MATLAB/Coanda%20Effect%20%E2%80%93%203D%20Airflow%20Visualization%20and%20Animation%20Using%20MATLAB
 
 ## 15. References | المصادر والمراجع العلمية
 
